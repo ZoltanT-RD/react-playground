@@ -33,6 +33,10 @@ const routing = (
                 <ParallaxExamplePage />
             </Route>
 
+            <Route exact path="/react-playground">
+                <DefaultAppPage />
+            </Route>
+
             <Route exact path="/">
                 <DefaultAppPage />
             </Route>
