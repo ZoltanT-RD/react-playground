@@ -1,0 +1,15 @@
+/* https://getbootstrap.com/docs/4.5/getting-started/theming/ */
+
+$body-bg: orangered;
+$body-color: white;
+
+.list-group-item{
+    color: lawngreen;
+}
+
+$theme-colors: (
+    "primary": #eb4d2c,
+    "danger": #8b251c,
+    "success": olive,
+    "info": yellow,
+);
