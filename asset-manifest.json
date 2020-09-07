@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/react-playground/static/css/main.5ae75eb8.chunk.css",
-    "main.js": "/react-playground/static/js/main.0a85da49.chunk.js",
-    "main.js.map": "/react-playground/static/js/main.0a85da49.chunk.js.map",
+    "main.css": "/react-playground/static/css/main.20cc7142.chunk.css",
+    "main.js": "/react-playground/static/js/main.9435df45.chunk.js",
+    "main.js.map": "/react-playground/static/js/main.9435df45.chunk.js.map",
     "runtime-main.js": "/react-playground/static/js/runtime-main.7942e741.js",
     "runtime-main.js.map": "/react-playground/static/js/runtime-main.7942e741.js.map",
     "static/css/2.a2f31877.chunk.css": "/react-playground/static/css/2.a2f31877.chunk.css",
-    "static/js/2.817661d3.chunk.js": "/react-playground/static/js/2.817661d3.chunk.js",
-    "static/js/2.817661d3.chunk.js.map": "/react-playground/static/js/2.817661d3.chunk.js.map",
+    "static/js/2.35dd8fa0.chunk.js": "/react-playground/static/js/2.35dd8fa0.chunk.js",
+    "static/js/2.35dd8fa0.chunk.js.map": "/react-playground/static/js/2.35dd8fa0.chunk.js.map",
     "index.html": "/react-playground/index.html",
-    "precache-manifest.7c7f1b0d86308c1ba3042e2eeb62226a.js": "/react-playground/precache-manifest.7c7f1b0d86308c1ba3042e2eeb62226a.js",
+    "precache-manifest.29cb84fc3dd70e7dec4dd27cec08c8db.js": "/react-playground/precache-manifest.29cb84fc3dd70e7dec4dd27cec08c8db.js",
     "service-worker.js": "/react-playground/service-worker.js",
     "static/css/2.a2f31877.chunk.css.map": "/react-playground/static/css/2.a2f31877.chunk.css.map",
-    "static/css/main.5ae75eb8.chunk.css.map": "/react-playground/static/css/main.5ae75eb8.chunk.css.map",
-    "static/js/2.817661d3.chunk.js.LICENSE.txt": "/react-playground/static/js/2.817661d3.chunk.js.LICENSE.txt",
+    "static/css/main.20cc7142.chunk.css.map": "/react-playground/static/css/main.20cc7142.chunk.css.map",
+    "static/js/2.35dd8fa0.chunk.js.LICENSE.txt": "/react-playground/static/js/2.35dd8fa0.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "/react-playground/static/media/logo.5d5d9eef.svg",
+    "static/media/parallax.scss": "/react-playground/static/media/photo-0.1c5ec4d1.jpg",
     "static/media/slick-theme.css": "/react-playground/static/media/slick.f97e3bbf.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.7942e741.js",
     "static/css/2.a2f31877.chunk.css",
-    "static/js/2.817661d3.chunk.js",
-    "static/css/main.5ae75eb8.chunk.css",
-    "static/js/main.0a85da49.chunk.js"
+    "static/js/2.35dd8fa0.chunk.js",
+    "static/css/main.20cc7142.chunk.css",
+    "static/js/main.9435df45.chunk.js"
   ]
 }
