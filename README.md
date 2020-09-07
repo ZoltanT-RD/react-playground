@@ -1,7 +1,12 @@
-check out the last build deployed here;
+##check out the last build deployed here;
 https://zoltantompa-resdiary.github.io/react-playground/
 
 
+
+
+
+
+******************************************
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
